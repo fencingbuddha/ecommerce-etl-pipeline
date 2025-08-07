@@ -1,1 +1,7 @@
+pandas
+faker
+snowflake-connector-python
+openpyxl
+python-dotenv
  
+
