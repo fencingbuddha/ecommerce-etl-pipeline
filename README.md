@@ -12,6 +12,7 @@ This project demonstrates an end-to-end data pipeline simulating e-commerce sale
 - 🐍 Python (Faker, Pandas, Colab)
 - ❄️ Snowflake (Data Warehouse)
 - 📊 Tableau Public (Dashboards)
+![Dashboard Preview](tableau/ECommerce Orders Dashboard.png)
 - 📝 GitHub (Documentation & Version Control)
 
 ---
